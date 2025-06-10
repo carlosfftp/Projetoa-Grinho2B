@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  background-color: #cc671f;
+  background-color: #4b0268;
   text-align: center;
   padding: 40px 20px;
   border-radius: 12px;
@@ -88,12 +88,12 @@ footer {
   text-align: center;
   margin-top: 40px;
   font-size: 0.9em;
-  color: #555;
+  color: #dac6c6;
 }
 
 .rodape-centralizado {
   position: relative;
-  background: #cc671f;
+  background: #f3f3f3;
   color: white;
   text-align: center;
   padding: 20px 40px;
